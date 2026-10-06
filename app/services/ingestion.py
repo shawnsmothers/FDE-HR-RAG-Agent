@@ -9,6 +9,7 @@ from docx import Document as DocxDocument
 SUPPORTED_FORMATS = {
     ".pdf",
     ".txt",
+    ".md",
     ".docx",
 } 
 
